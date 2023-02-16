@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm ِAhmed Ghaly</h1>
 <h3 align="center">An AI student, a passionate flutter developer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedghaly15&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedghaly15" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedghaly15" alt="ahmedghaly15" /></a> </p>
 
 - 🔭 I’m currently working on **To-Do-App-Planner**
 
@@ -31,8 +34,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedghaly15&show_icons=true&locale=en" alt="ahmedghaly15" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedghaly15&" alt="ahmedghaly15" /></p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedghaly15&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedghaly15" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedghaly15" alt="ahmedghaly15" /></a> </p>
-
