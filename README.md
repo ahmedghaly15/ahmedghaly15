@@ -1,5 +1,28 @@
-# 💫 About Me:
-🔭 I’m currently working on To-Do-App-Planner<br><br>🌱 I’m currently learning Flutter and Dart<br><br>👯 I’m looking to collaborate on Flutter Projects<br><br>🤝 I’m looking for help with Flutter Projects<br><br>👨‍💻 All of my projects are available at https://github.com/ahmedghaly15?tab=repositories<br><br>💬 Ask me about Flutter and Dart<br><br>📫 How to reach me ahmedghaly0767@gmail.com<br><br>📄 Know about my experiences https://www.linkedin.com/in/ahmed-ghaly-130abb1b9/
+<h1 align="center">Hi 👋, I'm ِAhmed Ghaly</h1>
+<h3 align="center">An AI student, a passionate flutter developer</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedghaly15&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedghaly15" /> </p>
+
+
+- 🔭 I’m currently working on **To-Do-App-Planner**
+
+- 🌱 I’m currently learning **Flutter and Dart**
+
+- 👯 I’m looking to collaborate on **Flutter Projects**
+
+- 🤝 I’m looking for help with **Flutter Projects**
+
+- 👨‍💻 All of my projects are available at [https://github.com/ahmedghaly15?tab=repositories](https://github.com/ahmedghaly15?tab=repositories)
+
+- 💬 Ask me about **Flutter and Dart**
+
+- 📫 How to reach me **ahmedghaly0767@gmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/ahmed-ghaly-130abb1b9/](https://www.linkedin.com/in/ahmed-ghaly-130abb1b9/)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
 
 # 💻 Tech Stack:
