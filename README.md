@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm ِAhmed Ghaly</h1>
 <h3 align="center">An AI student, a passionate flutter developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedghaly15&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedghaly15" /> </p>
+<img align = "right" width = "400" src = "![image](https://user-images.githubusercontent.com/108659381/219422759-0b831fd8-50ef-4d8a-b60f-8b12105db866.png)">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedghaly15&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedghaly15" /> </p>
 
 - 🔭 I’m currently working on **To-Do-App-Planner**
 
