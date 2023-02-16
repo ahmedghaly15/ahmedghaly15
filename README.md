@@ -30,6 +30,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedghaly15&show_icons=true&locale=en&layout=compact" alt="ahmedghaly15" /></p>
 
 ![](https://github-readme-stats.vercel.app/api?username=ahmedghaly15&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ahmedghaly15&theme=blue-green&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedghaly15&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedghaly15&" alt="ahmedghaly15" /></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedghaly15" alt="ahmedghaly15" /></a> </p>
