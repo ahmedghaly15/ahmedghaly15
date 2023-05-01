@@ -27,8 +27,6 @@
 
 - 🤝 I’m looking for help with **Flutter Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ahmedghaly15?tab=repositories](https://github.com/ahmedghaly15?tab=repositories)
-
 - 💬 Ask me about **Flutter and Dart**
 
 - 📫 How to reach me **ahmedghaly0767@gmail.com**
