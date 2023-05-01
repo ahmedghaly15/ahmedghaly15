@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Ghaly</h1>
-<h3 align="center">An AI student, and a passionate flutter developer</h3>
+<h3 align="center">A Mobile Application Developer With A Passion For Cross-Platform Development Using Flutter</h3>
 
  <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" width="500" height="320" />
 
