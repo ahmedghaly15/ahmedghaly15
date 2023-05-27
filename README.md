@@ -31,9 +31,9 @@
 
 - 📫 How to reach me **ahmedghaly0767@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ahmed-ghaly-130abb1b9/](https://www.linkedin.com/in/ahmed-ghaly-130abb1b9/)
+<!-- - 📄 Know about my experiences [https://www.linkedin.com/in/ahmed-ghaly-130abb1b9/](https://www.linkedin.com/in/ahmed-ghaly-130abb1b9/) -->
 
-- 👨‍💻 Check out my portfolio at https://ahmedghaly15.github.io/Portfolio-Website/ to see some of the projects I've worked on.
+<!-- - 👨‍💻 Check out my portfolio at https://ahmedghaly15.github.io/Portfolio-Website/ to see some of the projects I've worked on. -->
 
 
 ### 💻 Languages and Tools:
