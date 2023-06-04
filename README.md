@@ -19,6 +19,9 @@ I'm Ahmed Ghaly, an experienced Flutter developer who is passionate about produc
 Additionally, I have extensive experience working with Firebase to provide robust back-end services such as authentication and real-time database integration. My passion for innovation drives me to stay up-to-date with industry changes, attend conferences, network with other developers, and read tech blogs. I believe that communication is key to successful collaboration and strive to work closely with my clients throughout the development process to ensure their vision is realized.
 </p>
 
+<br/>
+<br/>
+
  <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" width="500" height="320" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedghaly15&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedghaly15" /> </p>
@@ -39,7 +42,6 @@ Additionally, I have extensive experience working with Firebase to provide robus
 
 <!-- - 👨‍💻 Check out my portfolio at https://ahmedghaly15.github.io/Portfolio-Website/ to see some of the projects I've worked on. -->
 
-<br/>
 <br/>
 <br/>
 
