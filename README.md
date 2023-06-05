@@ -26,17 +26,21 @@ Additionally, I have extensive experience working with Firebase to provide robus
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedghaly15&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedghaly15" /> </p>
 
-- 🔭 I’m currently working on **Improving my skills**
+* 🔭 I’m currently working on
+  - [Universe-App](https://github.com/ahmedghaly15/Universe-App)
+  - [KittyCat-App](https://github.com/ahmedghaly15/KittyCat-App)
 
-- 🌱 I’m currently learning **Flutter and Dart**
+* 🌱 I’m currently learning everything I can find about **Flutter**, Learning never stops!
 
-- 👯 I’m looking to collaborate on **Flutter Projects**
+* 👯 I’m looking to collaborate on **Flutter Projects**
 
-- 🤝 I’m looking for help with **Flutter Projects**
+<!-- * 🤝 I’m looking for help with **Flutter Projects** -->
 
-- 💬 Ask me about **Flutter and Dart**
+* 💬 Ask me about anything about **Flutter**
 
-- 📫 How to reach me **ahmedghaly0767@gmail.com**
+* 📫 How to reach me
+  - **[Email](ahmedghaly0767@gmail.com)**
+  - **[LinkedIn](https://www.linkedin.com/in/ahmed-ghaly15/)**
 
 <!-- - 📄 Know about my experiences [https://www.linkedin.com/in/ahmed-ghaly-130abb1b9/](https://www.linkedin.com/in/ahmed-ghaly-130abb1b9/) -->
 
