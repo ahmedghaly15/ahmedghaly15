@@ -20,7 +20,6 @@ Additionally, I have extensive experience working with Firebase to provide robus
 </p>
 
 <br/>
-<br/>
 
  <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" width="500" height="320" />
 
@@ -34,24 +33,44 @@ Additionally, I have extensive experience working with Firebase to provide robus
 
 * 👯 I’m looking to collaborate on **Flutter Projects**
 
-<!-- * 🤝 I’m looking for help with **Flutter Projects** -->
-
 * 💬 Ask me about anything about **Flutter**
 
-* 📫 How to reach me
-  - **[Email](ahmedghaly0767@gmail.com)**
-  - **[LinkedIn](https://www.linkedin.com/in/ahmed-ghaly15/)**
-
-<!-- - 📄 Know about my experiences [https://www.linkedin.com/in/ahmed-ghaly-130abb1b9/](https://www.linkedin.com/in/ahmed-ghaly-130abb1b9/) -->
-
-<!-- - 👨‍💻 Check out my portfolio at https://ahmedghaly15.github.io/Portfolio-Website/ to see some of the projects I've worked on. -->
-
 <br/>
-<br/>
+
+## 📫 Connect With Me
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+)](https://www.linkedin.com/in/ahmed-ghaly15/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:ahmedghaly0767@gmail.com)](mailto:ahmedghaly0767@gmail.com)
 
 ## 💻 Languages and Tools:
 
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> 
+  <a href="https://dart.dev" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="50" height="50"/> 
+  </a> 
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="50" height="50"/> 
+  </a> 
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/> 
+  </a> 
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50">
+  </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> 
+  </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> 
+  </a> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> 
+  </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50">
+  </a> 
+</p>
 
 
 ## 📊 GitHub Stats:
