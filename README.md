@@ -14,9 +14,11 @@
 </p>
 
 <p>
-I'm Ahmed Ghaly, an experienced Flutter developer who is passionate about producing high-quality mobile applications. I'm expert in building cross-platform apps using Flutter, I have developed a deep understanding of Dart and the Flutter framework. My expertise includes designing beautiful and responsive layouts, utilizing efficient state management techniques, and integrating various APIs and third-party libraries to enhance my clients' applications. 
+I'm Ahmed Ghaly, an experienced Flutter developer who is passionate about producing high-quality mobile applications. I'm expert in building cross-platform apps using Flutter, I have developed a deep understanding of Dart and the Flutter framework. My expertise includes designing beautiful and responsive layouts, utilizing efficient state management techniques, and integrating various APIs and third-party libraries to enhance my clients' applications. My focus isalways on delivering high-quality, innovative mobile apps thatexceedexpectations.
   
-Additionally, I have extensive experience working with Firebase to provide robust back-end services such as authentication and real-time database integration. My passion for innovation drives me to stay up-to-date with industry changes, attend conferences, network with other developers, and read tech blogs. I believe that communication is key to successful collaboration and strive to work closely with my clients throughout the development process to ensure their vision is realized.
+Additionally, I have extensive experience working with Firebase to provide robust back-end services such as authentication and real-time database integration. My passion for innovation drives me to stay up-to-date with industry changes, attend conferences, network with other developers, and read tech blogs. 
+
+I believe that communication is key to successful collaboration and strive to work closely with my clients throughout the development process to ensure their vision is realized.
 </p>
 
 <br/>
