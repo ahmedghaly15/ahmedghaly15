@@ -30,8 +30,7 @@ I believe that communication is key to successful collaboration and strive to wo
 * 🔭 I’m currently working on
   - [Universe-App](https://github.com/ahmedghaly15/Universe-App)
   - [KittyCat-App](https://github.com/ahmedghaly15/KittyCat-App)
-  - [Fruity-App](https://github.com/ahmedghaly15/Fruity-App)
-  - [TapPay-App](https://github.com/ahmedghaly15/TapPay-App)
+  - [Delibird-App](https://github.com/ahmedghaly15/Delibird-App)
 
 * 🌱 I’m currently learning everything I can find about **Flutter**, Learning never stops!
 
