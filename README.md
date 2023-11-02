@@ -28,7 +28,8 @@ I believe that communication is key to successful collaboration and strive to wo
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedghaly15&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedghaly15" /> </p>
 
 * 🔭 I’m currently working on
-  - [KittyCat-App](https://github.com/ahmedghaly15/KittyCat-App)
+  - [KittyCat](https://github.com/ahmedghaly15/KittyCat)
+  - [Carey](https://github.com/ahmedghaly15/Carey)
   
 * 🌱 I’m currently learning everything I can find about **Flutter**, Learning never stops!
 
