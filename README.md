@@ -29,7 +29,10 @@ I believe that communication is key to successful collaboration and strive to wo
 
 * 🔭 I’m currently working on
   - [KittyCat](https://github.com/ahmedghaly15/KittyCat)
-  - [Carey](https://github.com/ahmedghaly15/Carey)
+  - [Carey](https://github.com/ahmedghaly15/Carey) (Private Repo)
+  - [ICare](https://github.com/ahmedghaly15/ICare) (Private Repo)
+  - [Storeify](https://github.com/ahmedghaly15/Storeify)
+  - [LearnMate](https://github.com/ahmedghaly15/LearnMate)
   
 * 🌱 I’m currently learning everything I can find about **Flutter**, Learning never stops!
 
