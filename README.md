@@ -2,13 +2,16 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=Mobile+Application+Developer+With+Passion+For;+Always+Learning+New+Things">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=Mobile+Application+Developer+With+Passion+For;+Cross-Platform+Development+Using+Flutter">
 </h3>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=Cross-Platform+Development+Using+Flutter;Improve+Constantly">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=Always+Learning+New+Things;+Improve+Constantly">
 </h3>
 
 <p>
@@ -69,5 +72,3 @@ I believe that communication is key to successful collaboration and strive to wo
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+❤️;+Message+me+on+Linkedin!;I'm+always+down+to+collab">
 </h3>
-
-
