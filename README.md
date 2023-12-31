@@ -2,16 +2,14 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
-<!-- <h3 align="center">A Mobile Application Developer With A Passion For Cross-Platform Development Using Flutter</h3>
- -->
- 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Mobile%20Application%20Developer%20With%20A%20Passion%20For;Always%20Learning%20New%20Things&font=Fira%20Code&center=true&width=1000&height=45&color=blue&vCenter=true&size=22"></a>
-</p>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Cross-Platform%20Development%20Using%20Flutter;Improve%20Constantly,%20Code%20Better&font=Fira%20Code&center=true&width=1000&height=45&color=blue&vCenter=true&size=22"></a>
-</p>
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=Mobile+Application+Developer+With+Passion+For;+Always+Learning+New+Things">
+</h3>
+
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=Cross-Platform+Development+Using+Flutter;Improve+Constantly">
+</h3>
 
 <p>
 I'm Ahmed Ghaly, an experienced Flutter developer who is passionate about producing high-quality mobile applications. I'm expert in building cross-platform apps using Flutter, I have developed a deep understanding of Dart and the Flutter framework. My expertise includes designing beautiful and responsive layouts, utilizing efficient state management techniques, and integrating various APIs and third-party libraries to enhance my clients' applications. My focus isalways on delivering high-quality, innovative mobile apps that exceed expectations.
@@ -69,5 +67,7 @@ I believe that communication is key to successful collaboration and strive to wo
 </div>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+❤️">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+❤️;+Message+me+on+Linkedin!;I'm+always+down+to+collab">
 </h3>
+
+
